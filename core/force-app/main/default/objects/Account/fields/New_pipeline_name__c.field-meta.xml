@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>New_pipeline_name__c</fullName>
+    <description>A conflict will be caused by this change.</description>
+    <externalId>false</externalId>
+    <label>New pipeline name</label>
+    <length>28</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
