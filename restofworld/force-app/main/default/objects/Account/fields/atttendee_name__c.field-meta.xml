@@ -3,7 +3,7 @@
     <fullName>atttendee_name__c</fullName>
     <externalId>false</externalId>
     <label>atttendee name</label>
-    <length>19</length>
+    <length>25</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Text</type>
