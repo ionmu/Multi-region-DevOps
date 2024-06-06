@@ -33,7 +33,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>atttendee_name__c</field>
+                <field>atttendee_names__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
